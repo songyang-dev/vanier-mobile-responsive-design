@@ -48,6 +48,7 @@ class SecondHalf extends StatelessWidget {
       children: [
         LargeCard(text: "First Card"),
         LargeCard(text: "Second Card"),
+        LargeCard(text: "Third Card"),
       ],
     );
 
@@ -55,6 +56,7 @@ class SecondHalf extends StatelessWidget {
       children: [
         LargeCard(text: "First Card"),
         LargeCard(text: "Second Card"),
+        LargeCard(text: "Third Card"),
       ],
     );
 
